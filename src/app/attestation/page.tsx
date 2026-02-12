@@ -1,3 +1,7 @@
+import styles from './attestation.module.css';
+
+// dans le JSX
+<h1 className={styles.title}>Votre titre</h1>
 import Link from "next/link";
 import styles from "./attestation.module.css";
 
